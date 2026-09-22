@@ -1,5 +1,17 @@
-# Hello I am Suman Sarkar 😊
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=00Suman00.00Suman00" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+😊👋;+I'm+Suman+Sarkar!;" />
+</h1>
+
+<div align="center">
+  <img src="profile-scan.svg?v=4" alt="Profile Scan" width="100%" />
+</div>
+
 # 💫 About Me:
+
+
+
 🔭 I’m currently studying B.Tech in C.S.E.<br>📌I'm a driven individual focused on building AI-powered products and turning ideas into reality.<br>🖊️Also I am Interested in Web3 and Blockchain .<br>🖥️And I am into robotics and a lots of techs.<br>🕹️Also curious about design and constantly exploring ways to create better user experiences.<br>😃Always learning, building, and moving forward.<br>
 
  
