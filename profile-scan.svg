@@ -26,7 +26,7 @@
   <circle cx="48" cy="28" r="5" fill="#ffbd2e" opacity="0.9"/>
   <circle cx="68" cy="28" r="5" fill="#27c93f" opacity="0.9"/>
   <text x="390" y="33" class="title" text-anchor="middle">PROFILE_SCAN.EXE</text>
-  <text x="20" y="66" class="header">$ ./profile-scan --target sohansarkar07 --live</text>
+  <text x="20" y="66" class="header">$ ./profile-scan --target 00Suman00--live</text>
   <text x="20" y="84" class="header">SCANNING... STATUS: ONLINE | 2026-09-21 21:47 UTC</text>
   <line x1="8" y1="94" x2="772" y2="94" class="sep"/>
   <line x1="340" y1="94" x2="340" y2="552" class="sep"/>
@@ -59,7 +59,7 @@
   
     <line x1="350" y1="143" x2="760" y2="143" class="divider"/>
     <text x="355" y="158" class="label">Handle</text>
-    <text x="510" y="158" class="value">@sohansarkar07</text>
+    <text x="510" y="158" class="value">@00Suman00</text>
     <line x1="350" y1="175" x2="760" y2="175" class="divider"/>
     <text x="355" y="190" class="label">Subject</text>
     <text x="510" y="190" class="value">LIFE IN DEBUG</text>
@@ -71,19 +71,19 @@
     <text x="510" y="254" class="value">TypeScript, JavaScript, Python, </text>
     <line x1="350" y1="271" x2="760" y2="271" class="divider"/>
     <text x="355" y="286" class="label">Repositories</text>
-    <text x="510" y="286" class="value">29</text>
+    <text x="510" y="286" class="value">3</text>
     <line x1="350" y1="303" x2="760" y2="303" class="divider"/>
     <text x="355" y="318" class="label">Stars</text>
-    <text x="510" y="318" class="value">9</text>
+    <text x="510" y="318" class="value">0</text>
     <line x1="350" y1="335" x2="760" y2="335" class="divider"/>
     <text x="355" y="350" class="label">Followers</text>
-    <text x="510" y="350" class="value">7</text>
+    <text x="510" y="350" class="value">1</text>
     <line x1="350" y1="367" x2="760" y2="367" class="divider"/>
     <text x="355" y="382" class="label">Active Days</text>
-    <text x="510" y="382" class="value">365</text>
+    <text x="510" y="382" class="value">111</text>
     <line x1="350" y1="399" x2="760" y2="399" class="divider"/>
     <text x="355" y="414" class="label">Contact</text>
-    <text x="510" y="414" class="value">github.com/sohansarkar07</text>
+    <text x="510" y="414" class="value">github.com/00Suman00</text>
   <rect x="355" y="450" width="9" height="14" class="cursor"/>
   <line x1="8" y1="532" x2="772" y2="532" class="sep"/>
   <text x="20" y="548" class="header">[ ACCESS GRANTED ] &#x2588; SECURE CONNECTION ESTABLISHED</text>
