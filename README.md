@@ -28,6 +28,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=00Suman00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<div align="center">
+  <img src="./profile-custom-gitblock.svg" />
+</div>
+<p align="center"><em>*The language charts are based on recent commits.</em></p>
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=00Suman00&theme=&github-compact&bg_color=none&color=808080&line=07cfe9&point=07cfe9&area=true&area_color=07cfe9&hide_border=true" alt="Suman Sarkar's github activity graph" />
+  </a>
+</div>
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
