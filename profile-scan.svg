@@ -1,1 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="780" height="560" viewBox="0 0 780 560">
+  <defs>
+    <style>
+      .bg    { fill: #060c06; }
+      .frame { fill: none; stroke: #00ff41; stroke-width: 1.5; opacity: 0.6; }
+      .title { font-family: 'Courier New', monospace; font-size: 13px; fill: #00ff41; letter-spacing: 4px; font-weight: bold; }
+      .ascii { font-family: 'Courier New', monospace; font-size: 10px; fill: #00cc33; white-space: pre; }
+      .label { font-family: 'Courier New', monospace; font-size: 12px; fill: #00aa22; letter-spacing: 1px; }
+      .value { font-family: 'Courier New', monospace; font-size: 12px; fill: #00ff88; }
+      .header{ font-family: 'Courier New', monospace; font-size: 11px; fill: #00ff4160; letter-spacing: 2px; }
+      .divider { stroke: #00ff4118; stroke-width: 0.8; }
+      .sep    { stroke: #00ff4150; stroke-width: 1; }
+      .cursor { fill: #00ff41; animation: blink 1s step-end infinite; }
+      .scan   { fill: none; stroke: #00ff4112; stroke-width: 60; animation: scandown 5s linear infinite; }
+      @keyframes blink    { 0%,100%{opacity:1;} 50%{opacity:0;} }
+      @keyframes scandown { 0%{transform:translateY(-120px);} 100%{transform:translateY(680px);} }
+    </style>
+  </defs>
 
+  <rect width="780" height="560" class="bg" rx="10"/>
+  <line x1="0" y1="0" x2="780" y2="0" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="20" x2="780" y2="20" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="40" x2="780" y2="40" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="60" x2="780" y2="60" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="80" x2="780" y2="80" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="100" x2="780" y2="100" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="120" x2="780" y2="120" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="140" x2="780" y2="140" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="160" x2="780" y2="160" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="180" x2="780" y2="180" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="200" x2="780" y2="200" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="220" x2="780" y2="220" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="240" x2="780" y2="240" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="260" x2="780" y2="260" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="280" x2="780" y2="280" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="300" x2="780" y2="300" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="320" x2="780" y2="320" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="340" x2="780" y2="340" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="360" x2="780" y2="360" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="380" x2="780" y2="380" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="400" x2="780" y2="400" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="420" x2="780" y2="420" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="440" x2="780" y2="440" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="460" x2="780" y2="460" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="480" x2="780" y2="480" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="500" x2="780" y2="500" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="520" x2="780" y2="520" stroke="#00ff4106" stroke-width="1"/><line x1="0" y1="540" x2="780" y2="540" stroke="#00ff4106" stroke-width="1"/>
+  <line x1="0" y1="0" x2="780" y2="0" class="scan"/>
+  <rect x="8" y="8" width="764" height="544" class="frame" rx="6"/>
+  <rect x="8" y="8" width="764" height="40" fill="#00ff4108" rx="6"/>
+  <circle cx="28" cy="28" r="5" fill="#ff5f56" opacity="0.9"/>
+  <circle cx="48" cy="28" r="5" fill="#ffbd2e" opacity="0.9"/>
+  <circle cx="68" cy="28" r="5" fill="#27c93f" opacity="0.9"/>
+  <text x="390" y="33" class="title" text-anchor="middle">PROFILE_SCAN.EXE</text>
+  <text x="20" y="66" class="header">$ ./profile-scan --target sohansarkar07 --live</text>
+  <text x="20" y="84" class="header">SCANNING... STATUS: ONLINE | 2026-09-21 21:47 UTC</text>
+  <line x1="8" y1="94" x2="772" y2="94" class="sep"/>
+  <line x1="340" y1="94" x2="340" y2="552" class="sep"/>
+  <text x="18" y="114" class="label">VISUAL.MAP</text>
+  <text x="18" y="132" class="ascii">@@#####++++++++.................++++++#####@</text>
+    <text x="18" y="150" class="ascii">#####+++++......  ...      ........+++++####</text>
+    <text x="18" y="168" class="ascii">###++++.....   .++#####++.       .....++++##</text>
+    <text x="18" y="186" class="ascii">##+++.....   +#@@@#@@@@@@@#+.       ....+++#</text>
+    <text x="18" y="204" class="ascii">++++...    +#@@###########@@@#.       ....++</text>
+    <text x="18" y="222" class="ascii">++....   .+@@############@###@#         ...+</text>
+    <text x="18" y="240" class="ascii">+...     .@####@@@@@@@@@@@@@@##.         ...</text>
+    <text x="18" y="258" class="ascii">...       +##@@##+.+++.+##@@##@.           .</text>
+    <text x="18" y="276" class="ascii">..         @##.         +######             </text>
+    <text x="18" y="294" class="ascii">.          +@+           ##@#@.             </text>
+    <text x="18" y="312" class="ascii">.           #. ..++....+######+             </text>
+    <text x="18" y="330" class="ascii">             +.  .#+ +#@@###@#.             </text>
+    <text x="18" y="348" class="ascii">             .       . +@#####              </text>
+    <text x="18" y="366" class="ascii">             .         .#####@.             </text>
+    <text x="18" y="384" class="ascii">              .        +##@@##              </text>
+    <text x="18" y="402" class="ascii">              .       .+@###@+              </text>
+    <text x="18" y="420" class="ascii">               .       .###@#               </text>
+    <text x="18" y="438" class="ascii">              +        .###+                </text>
+    <text x="18" y="456" class="ascii">.            #@        .###+.               </text>
+    <text x="18" y="474" class="ascii">.          .####.    ..#@#@@@##             </text>
+    <text x="18" y="492" class="ascii">.     .++##@@##@@#+...+##@@###@+            </text>
+    <text x="18" y="510" class="ascii">++###@@@@@@######@@@@@@#@@@######+.        .</text>
+    
+  <text x="355" y="114" class="label">SYSTEM.INFO</text>
+  <text x="510" y="114" class="label">SUBJECT</text>
+  
+    <line x1="350" y1="143" x2="760" y2="143" class="divider"/>
+    <text x="355" y="158" class="label">Handle</text>
+    <text x="510" y="158" class="value">@sohansarkar07</text>
+    <line x1="350" y1="175" x2="760" y2="175" class="divider"/>
+    <text x="355" y="190" class="label">Subject</text>
+    <text x="510" y="190" class="value">LIFE IN DEBUG</text>
+    <line x1="350" y1="207" x2="760" y2="207" class="divider"/>
+    <text x="355" y="222" class="label">Role</text>
+    <text x="510" y="222" class="value">Building AI powered products </text>
+    <line x1="350" y1="239" x2="760" y2="239" class="divider"/>
+    <text x="355" y="254" class="label">Languages</text>
+    <text x="510" y="254" class="value">TypeScript, JavaScript, Python, </text>
+    <line x1="350" y1="271" x2="760" y2="271" class="divider"/>
+    <text x="355" y="286" class="label">Repositories</text>
+    <text x="510" y="286" class="value">29</text>
+    <line x1="350" y1="303" x2="760" y2="303" class="divider"/>
+    <text x="355" y="318" class="label">Stars</text>
+    <text x="510" y="318" class="value">9</text>
+    <line x1="350" y1="335" x2="760" y2="335" class="divider"/>
+    <text x="355" y="350" class="label">Followers</text>
+    <text x="510" y="350" class="value">7</text>
+    <line x1="350" y1="367" x2="760" y2="367" class="divider"/>
+    <text x="355" y="382" class="label">Active Days</text>
+    <text x="510" y="382" class="value">365</text>
+    <line x1="350" y1="399" x2="760" y2="399" class="divider"/>
+    <text x="355" y="414" class="label">Contact</text>
+    <text x="510" y="414" class="value">github.com/sohansarkar07</text>
+  <rect x="355" y="450" width="9" height="14" class="cursor"/>
+  <line x1="8" y1="532" x2="772" y2="532" class="sep"/>
+  <text x="20" y="548" class="header">[ ACCESS GRANTED ] &#x2588; SECURE CONNECTION ESTABLISHED</text>
+  <text x="760" y="548" class="header" text-anchor="end">AUTO-REFRESH: DAILY</text>
+</svg>
