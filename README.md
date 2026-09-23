@@ -12,7 +12,7 @@
 
 
 
-🔭 I’m currently studying B.Tech in C.S.E.<br>📌I'm a driven individual focused on building AI-powered products and turning ideas into reality.<br>🖊️Also I am Interested in Web3 and Blockchain .<br>🖥️And I am into robotics and a lots of techs.<br>🕹️Also curious about design and constantly exploring ways to create better user experiences.<br>😃Always learning, building, and moving forward.<br>
+🔭 I’m currently studying B.Tech in C.S.E.<br>📌I'm a driven individual focused on building AI-powered products and turning ideas into reality.<br>🖊️Also I am Interested in Web3 and Blockchain .<br>🖥️And I am into robotics and a lots of techs.<br>🕹️Also curious about design and constantly exploring ways to create better user experiences.<br>😃Always learning, building, and moving forward.<br><br>📧Contact- swampsarkar1515@gmail.com<br>
 
  
 ## 🌐 Socials:
@@ -28,7 +28,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=00Suman00&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=00Suman00&theme=onestar&no-bg=true&no-frame=true&column=7" alt="trophies" />
+</p>
 
 <!-- Snake Game Repo View -->
 
